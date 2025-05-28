@@ -1,14 +1,14 @@
 {
   "country_codes": [
-673, // Brunei
-  855, // Cambodia
-  62,  // Indonesia
-  856, // Laos
-  60,  // Malaysia
-  95,  // Myanmar
-  63,  // Philippines
-  65,  // Singapore
-  66,  // Thailand
-  84   // Vietnam
+673,
+  855,
+  62,
+  856, 
+  60,
+  95,
+  63,
+  65,
+  66,
+  84
   ]
 }
