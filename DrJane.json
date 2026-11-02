@@ -1,1 +1,6 @@
-
+{
+  "ios_latest_version": "1.2",
+  "android_latest_version": "1.2",
+  "android_update_url": "https://play.google.com/store/apps/details?id=com.ebi.drjane",
+  "ios_update_url": "https://apps.apple.com/my/app/id6815072657"
+}
